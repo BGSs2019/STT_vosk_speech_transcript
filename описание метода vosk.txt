@@ -1,0 +1,7 @@
+1.pip install pydub
+2.скачать и распаковать релиз ffmpeg для windows, добавить путь к нему (\bin) в системную переменную Path
+3.pip install vosk
+
+https://vc.ru/dev/247450-oflayn-raspoznavanie-rechi-biblioteka-vosk
+https://pythonbasics.org/convert-mp3-to-wav/
+https://stackoverflow.com/questions/13358287/how-to-convert-any-mp3-file-to-wav-16khz-mono-16bit
