@@ -5,5 +5,5 @@ To use program you need to install:
 - colorama (you can turn it off if you don't need colors in console)
 - pydub
 - easygui
-- vosk (to run it you need to add speech recognition model to project, you can find it on vosk website)
+- vosk (to run it you need to add speech recognition model to project. I added one to my project, and you can find model for your language on vosk website)
 - ffmpeg (can not do it with pip, visit official website)
